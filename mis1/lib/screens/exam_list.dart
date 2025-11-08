@@ -60,11 +60,6 @@ class ExamListPage extends StatelessWidget {
       dateTime: DateTime(2025, 11, 27, 14, 0),
       rooms: ['Лаб 5'],
     ),
-    Exam(
-      subject: 'Test',
-      dateTime: DateTime(2025, 11, 8, 16, 9),
-      rooms: ['Лаб 5'],
-    ),
   ];
 
   @override
