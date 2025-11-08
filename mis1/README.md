@@ -2,6 +2,9 @@
 
 MIS - lab1
 
+# demo
+![demo](https://github.com/user-attachments/assets/bfb8d330-d6c2-4376-81d6-19774bb5b5c0)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
